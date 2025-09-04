@@ -1,1 +1,1 @@
-Biotech student at Aalborg University, previously co-founder, software developer and product leader. I like building tools, and I think a lot about how to make [end-user programming](https://en.wikipedia.org/wiki/End-user_development) better.
+Biotech student at Aalborg University. In a previous life, startup co-founder and software developer.
